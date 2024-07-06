@@ -2,6 +2,7 @@
 
 ## I'm Caz
 
+Musician of ***4*** years, Developer of ***2*** Years, And a graphic designer of ***1*** year.
 
 ### I have a couple skills:
 
