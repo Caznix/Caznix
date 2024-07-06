@@ -3,7 +3,8 @@
 ## I'm Caz
 
 
-I have a couple skills:
+### I have a couple skills:
+
 <img src="https://skillicons.dev/icons?i=godot,swift,figma" />
 
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
