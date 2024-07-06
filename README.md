@@ -1,1 +1,1 @@
-Writing code is the plan, open source software is my jam.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
