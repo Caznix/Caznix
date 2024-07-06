@@ -4,6 +4,7 @@
 
 <img src="https://skillicons.dev/icons?i=godot,swift,figma" />
 
+I have a couple skills:
 ![status](https://api.statusbadges.me/badge/status/825803913462284328)
 ![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
 ![vscode](https://api.statusbadges.me/badge/vscode/825803913462284328)
