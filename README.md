@@ -16,6 +16,6 @@ Im a proud member of the XFoss foundation and the founder of Starlight industrie
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caznix&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=batchfile)</a>
 </details>
 
-![status](https://api.statusbadges.me/badge/status/825803913462284328)
-![playing](https://api.statusbadges.me/badge/playing/825803913462284328)
-![vscode](https://api.statusbadges.me/badge/vscode/825803913462284328)
+![status](https://api.statusbadges.me/badge/status/1242181526641315922?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/1242181526641315922)
+![vscode](https://api.statusbadges.me/badge/vscode/1242181526641315922)
