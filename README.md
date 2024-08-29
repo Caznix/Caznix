@@ -2,7 +2,7 @@
 
 Musician of ***4*** years, Developer of ***2*** Years, And a graphic designer of ***1*** year.
 
-Im a proud member of the XFoss foundation and the founder of Starlight industries
+Im the founder of starlight industries, and an astounding gamedev
 
 ### Here are my main skills:
 
