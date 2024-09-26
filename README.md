@@ -2,11 +2,12 @@
 
 Musician of ***4*** years, Developer of ***2*** Years, And a graphic designer of ***1*** year.
 
-Im the founder of starlight industries, and an astounding gamedev
+Most of my active projects are under this org i own with those i work with:
+https://github.com/Starlight-Industries
 
 ### Here are my main skills:
 
-<img src="https://skillicons.dev/icons?i=godot,swift,figma" />
+<img src="https://skillicons.dev/icons?i=godot,swift,figma,svg,rust" />
 
 
 <details>
