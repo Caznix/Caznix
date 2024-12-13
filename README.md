@@ -1,6 +1,6 @@
 # 👋 Hi there. Im caz!
 
-Musician of ***4*** years, Developer of ***2*** Years, And a graphic designer of ***1*** year.
+Musician of ***4*** years, Developer of ***2*** Years, And a graphic designer of ***2*** year.
 
 Most of my active projects are under this org i own with those i work with:
 https://github.com/Starlight-Industries
@@ -16,6 +16,7 @@ https://github.com/Starlight-Industries
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Caznix&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caznix&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=batchfile)</a>
 </details>
+
 
 ![status](https://api.statusbadges.me/badge/status/1242181526641315922?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/1242181526641315922)
