@@ -12,9 +12,8 @@ https://github.com/Starlight-Industries
 
 <details>
   <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Caznix&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caznix&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=batchfile)</a>
+[![Caznix's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=caznix&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/caznix/github-readme-stats#gh-dark-mode-only)
+[![Caznix's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=caznix&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/caznix/github-readme-stats#gh-light-mode-only)
 </details>
 
 
